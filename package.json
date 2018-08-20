@@ -1,0 +1,72 @@
+{
+  "name": "project-susnjara",
+  "version": "0.0.1",
+  "description": "Team Susnjara EE Summer Camp 2018 project",
+  "main": "index.js",
+  "bin": {},
+  "scripts": {
+    "lint": "eslint .",
+    "precommit": "npm run lint",
+    "prepush": "npm run lint",
+    "seed": "node -r dotenv/config server/models/seed",
+    "dev:server": "node -r dotenv/config server",
+    "dev:client": "next client start"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ExtensionEngine/project-susnjara.git"
+  },
+  "author": {
+    "email": "info@extensionengine.com",
+    "name": "Extension Engine",
+    "url": "github.com/ExtensionEngine"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ExtensionEngine/project-susnjara/issues"
+  },
+  "homepage": "https://github.com/ExtensionEngine/project-susnjara",
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "dotenv": "^6.0.0",
+    "each-async": "^1.1.1",
+    "es6-promise": "^4.2.4",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.17.10",
+    "morgan": "^1.9.0",
+    "next": "6.1.1",
+    "node-cmd": "^3.0.0",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "passport-google-oauth20": "^1.0.0",
+    "passport-twitter": "^1.0.4",
+    "pg": "^7.4.3",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-redux": "^5.0.1",
+    "react-share": "^2.3.0",
+    "redux": "^3.6.0",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-thunk": "^2.1.0",
+    "sequelize": "^4.38.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "eslint-config-semistandard": "^12.0.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jest": "^21.18.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-react": "^7.10.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "husky": "^0.14.3"
+  }
+}

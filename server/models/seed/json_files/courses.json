@@ -1,0 +1,50 @@
+[
+  {
+    "topic": "git",
+    "course": "essentials"
+  },
+  {
+    "topic": "git",
+    "course": "workflow"
+  },
+  {
+    "topic": "javascript",
+    "course": "browser-apis"
+  },
+  {
+    "topic": "javascript",
+    "course": "core"
+  },
+  {
+    "topic": "javascript",
+    "course": "ecmascript-2015"
+  },
+  {
+    "topic": "javascript",
+    "course": "node"
+  },
+  {
+    "topic": "javascript",
+    "course": "npm"
+  },
+  {
+    "topic": "javascript",
+    "course": "react"
+  },
+  {
+    "topic": "sql",
+    "course": "ddl"
+  },
+  {
+    "topic": "sql",
+    "course": "dql"
+  },
+  {
+    "topic": "web",
+    "course": "html"
+  },
+  {
+    "topic": "web",
+    "course": "styling"
+  }
+]

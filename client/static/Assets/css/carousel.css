@@ -1,0 +1,79 @@
+.carousel-wrapper {
+  position: sticky;
+  width: 100%;
+  height: 600px;
+  min-width: 800px; }
+  .carousel-wrapper .carousel-display {
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    box-shadow: 0 0 50px grey; }
+    .carousel-wrapper .carousel-display .carousel-images {
+      width: 100%;
+      height: 600px; }
+    .carousel-wrapper .carousel-display .carousel-box {
+      position: absolute;
+      border-style: solid;
+      border-width: 4px;
+      background: rgba(204, 204, 204, 0.8);
+      box-shadow: 0 0 25px blue;
+      width: 300px;
+      height: 150px; }
+      .carousel-wrapper .carousel-display .carousel-box h3 {
+        text-align: center;
+        color: red;
+        font-size: 26px;
+        margin-top: 10px;
+        text-shadow: 2px 2px 3px rgba(0, 0, 128, 0.4); }
+      .carousel-wrapper .carousel-display .carousel-box p {
+        text-align: center;
+        margin: 20px;
+        font-size: 16px; }
+    .carousel-wrapper .carousel-display #thumbnail-1, .carousel-wrapper .carousel-display #thumbnail-2 {
+      top: 5%;
+      left: 5%; }
+    .carousel-wrapper .carousel-display #thumbnail-3 {
+      top: 5%;
+      right: 5%; }
+    .carousel-wrapper .carousel-display #thumbnail-4 {
+      bottom: 5%;
+      right: 5%; }
+    .carousel-wrapper .carousel-display #thumbnail-5 {
+      top: 5%;
+      right: 20%; }
+  .carousel-wrapper .column-move-left {
+    position: absolute;
+    height: 100%;
+    width: 45px;
+    z-index: 1;
+    left: 0;
+    cursor: pointer;
+    opacity: .4; }
+    .carousel-wrapper .column-move-left:hover {
+      opacity: .6;
+      background-color: lightgray; }
+    .carousel-wrapper .column-move-left .fa-arrow-left {
+      position: sticky;
+      margin-left: 1%;
+      margin-top: 275px;
+      font-size: 48px;
+      z-index: 1;
+      color: red; }
+  .carousel-wrapper .column-move-right {
+    position: absolute;
+    height: 100%;
+    width: 45px;
+    z-index: 1;
+    right: 0;
+    cursor: pointer;
+    opacity: .4; }
+    .carousel-wrapper .column-move-right:hover {
+      opacity: .6;
+      background-color: lightgray; }
+    .carousel-wrapper .column-move-right .fa-arrow-right {
+      position: sticky;
+      margin-right: 1%;
+      margin-top: 275px;
+      z-index: 1;
+      font-size: 48px;
+      color: red; }

@@ -1,0 +1,35 @@
+# deps
+node_modules
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# editors
+.idea
+*.sublime-*
+.vscode
+.vs
+
+# general
+.DS_Store
+
+# production
+/build
+.next
+
+# configs
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+Dockerfile
+docker-compose.yml

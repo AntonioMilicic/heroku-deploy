@@ -1,0 +1,65 @@
+.selection-card-selected {
+  border: 2px solid yellow;
+}
+
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -60%);
+  z-index: 9999;
+  border: 1px solid darkgrey;
+  border-radius: 6px;
+  background: #fff;
+  padding: 10px;
+}
+
+.modal-backdrop {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 9998;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.selection-card-correct {
+  border: 1px solid green;
+}
+
+.selection-card-false {
+  border: 1px solid red;
+}
+
+.selection-card-missed {
+  border: 1px solid blue;
+}
+
+.active-question {
+  background-color: orange;
+}
+
+.visited-question {
+  background-color: yellow;
+}
+
+.unvisited-question {
+  background-color: grey;
+}
+
+.correct-question {
+  background-color: lightgreen;
+}
+
+.correct-question-active {
+  background-color: green;
+}
+
+.incorrect-question {
+  background-color: orangered;
+}
+
+.incorrect-question-active {
+  background-color: darkred;
+}

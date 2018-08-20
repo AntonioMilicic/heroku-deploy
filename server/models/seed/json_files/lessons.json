@@ -1,0 +1,622 @@
+[
+  {
+    "course": "essentials",
+    "lesson": "branching"
+  },
+  {
+    "course": "essentials",
+    "lesson": "commits"
+  },
+  {
+    "course": "essentials",
+    "lesson": "dummy-workout"
+  },
+  {
+    "course": "essentials",
+    "lesson": "features-i"
+  },
+  {
+    "course": "essentials",
+    "lesson": "features-ii"
+  },
+  {
+    "course": "essentials",
+    "lesson": "features-iii"
+  },
+  {
+    "course": "essentials",
+    "lesson": "fundamentals"
+  },
+  {
+    "course": "essentials",
+    "lesson": "getting-started"
+  },
+  {
+    "course": "essentials",
+    "lesson": "local-repository"
+  },
+  {
+    "course": "essentials",
+    "lesson": "remote-repository"
+  },
+  {
+    "course": "workflow",
+    "lesson": "branches"
+  },
+  {
+    "course": "workflow",
+    "lesson": "finding-commits"
+  },
+  {
+    "course": "workflow",
+    "lesson": "help"
+  },
+  {
+    "course": "workflow",
+    "lesson": "logging"
+  },
+  {
+    "course": "workflow",
+    "lesson": "merges"
+  },
+  {
+    "course": "workflow",
+    "lesson": "staging-i"
+  },
+  {
+    "course": "workflow",
+    "lesson": "staging-ii"
+  },
+  {
+    "course": "workflow",
+    "lesson": "tips"
+  },
+  {
+    "course": "workflow",
+    "lesson": "work-smart"
+  },
+  {
+    "course": "workflow",
+    "lesson": "workflow"
+  },
+  {
+    "course": "browser-apis",
+    "lesson": "measuring-performance"
+  },
+  {
+    "course": "browser-apis",
+    "lesson": "navigation"
+  },
+  {
+    "course": "browser-apis",
+    "lesson": "reading-writing"
+  },
+  {
+    "course": "browser-apis",
+    "lesson": "toolbox-i"
+  },
+  {
+    "course": "browser-apis",
+    "lesson": "toolbox-ii"
+  },
+  {
+    "course": "browser-apis",
+    "lesson": "user-interaction"
+  },
+  {
+    "course": "core",
+    "lesson": "array-methods"
+  },
+  {
+    "course": "core",
+    "lesson": "arrays"
+  },
+  {
+    "course": "core",
+    "lesson": "async"
+  },
+  {
+    "course": "core",
+    "lesson": "async-tips"
+  },
+  {
+    "course": "core",
+    "lesson": "errors"
+  },
+  {
+    "course": "core",
+    "lesson": "flow-control"
+  },
+  {
+    "course": "core",
+    "lesson": "functions-i"
+  },
+  {
+    "course": "core",
+    "lesson": "functions-ii"
+  },
+  {
+    "course": "core",
+    "lesson": "functions-iii"
+  },
+  {
+    "course": "core",
+    "lesson": "in-depth-ii"
+  },
+  {
+    "course": "core",
+    "lesson": "intro-js"
+  },
+  {
+    "course": "core",
+    "lesson": "js-history"
+  },
+  {
+    "course": "core",
+    "lesson": "numbers"
+  },
+  {
+    "course": "core",
+    "lesson": "objects"
+  },
+  {
+    "course": "core",
+    "lesson": "recipes-i"
+  },
+  {
+    "course": "core",
+    "lesson": "recipes-ii"
+  },
+  {
+    "course": "core",
+    "lesson": "scope"
+  },
+  {
+    "course": "core",
+    "lesson": "strings"
+  },
+  {
+    "course": "core",
+    "lesson": "strings-ii"
+  },
+  {
+    "course": "core",
+    "lesson": "types"
+  },
+  {
+    "course": "core",
+    "lesson": "types-ii"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "array-updates"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "classes-modules"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "destructuring"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "es6-quirks"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "function-improvements"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "generators-proxy"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "intro-ecmascript"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "iterators-generators"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "master-es6-features"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "promises"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "spread-map-set-math"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "string-flexibility"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "string-number-extensions"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "symbol"
+  },
+  {
+    "course": "node",
+    "lesson": "best-practices"
+  },
+  {
+    "course": "node",
+    "lesson": "code-style-recommendations"
+  },
+  {
+    "course": "node",
+    "lesson": "error-handling"
+  },
+  {
+    "course": "node",
+    "lesson": "events"
+  },
+  {
+    "course": "node",
+    "lesson": "express"
+  },
+  {
+    "course": "node",
+    "lesson": "express-ii"
+  },
+  {
+    "course": "node",
+    "lesson": "file-io"
+  },
+  {
+    "course": "node",
+    "lesson": "intro-node"
+  },
+  {
+    "course": "node",
+    "lesson": "modules"
+  },
+  {
+    "course": "node",
+    "lesson": "operational-vs-programmer-errors"
+  },
+  {
+    "course": "node",
+    "lesson": "patterns"
+  },
+  {
+    "course": "node",
+    "lesson": "processes-clustering"
+  },
+  {
+    "course": "node",
+    "lesson": "quirks"
+  },
+  {
+    "course": "node",
+    "lesson": "streams"
+  },
+  {
+    "course": "node",
+    "lesson": "tools"
+  },
+  {
+    "course": "node",
+    "lesson": "web-servers"
+  },
+  {
+    "course": "npm",
+    "lesson": "intro-npm"
+  },
+  {
+    "course": "npm",
+    "lesson": "packages-modules"
+  },
+  {
+    "course": "npm",
+    "lesson": "publishing"
+  },
+  {
+    "course": "npm",
+    "lesson": "tools-i"
+  },
+  {
+    "course": "react",
+    "lesson": "basics-i"
+  },
+  {
+    "course": "react",
+    "lesson": "basics-ii"
+  },
+  {
+    "course": "react",
+    "lesson": "good-to-know"
+  },
+  {
+    "course": "react",
+    "lesson": "gotchas"
+  },
+  {
+    "course": "react",
+    "lesson": "intro-react"
+  },
+  {
+    "course": "react",
+    "lesson": "props-i"
+  },
+  {
+    "course": "react",
+    "lesson": "props-ii"
+  },
+  {
+    "course": "react",
+    "lesson": "props-iii"
+  },
+  {
+    "course": "react",
+    "lesson": "redux-i"
+  },
+  {
+    "course": "react",
+    "lesson": "redux-tips"
+  },
+  {
+    "course": "ddl",
+    "lesson": "alter"
+  },
+  {
+    "course": "ddl",
+    "lesson": "create"
+  },
+  {
+    "course": "ddl",
+    "lesson": "data-types"
+  },
+  {
+    "course": "ddl",
+    "lesson": "indices"
+  },
+  {
+    "course": "ddl",
+    "lesson": "storing-blobs"
+  },
+  {
+    "course": "ddl",
+    "lesson": "storing-json"
+  },
+  {
+    "course": "dql",
+    "lesson": "aggregate-queries"
+  },
+  {
+    "course": "dql",
+    "lesson": "basic-queries"
+  },
+  {
+    "course": "dql",
+    "lesson": "basic-selects"
+  },
+  {
+    "course": "dql",
+    "lesson": "database-clients"
+  },
+  {
+    "course": "dql",
+    "lesson": "joins"
+  },
+  {
+    "course": "dql",
+    "lesson": "what-is-sql"
+  },
+  {
+    "course": "dql",
+    "lesson": "write"
+  },
+  {
+    "course": "html",
+    "lesson": "citation-elements"
+  },
+  {
+    "course": "html",
+    "lesson": "computer-code"
+  },
+  {
+    "course": "html",
+    "lesson": "core-html-elements"
+  },
+  {
+    "course": "html",
+    "lesson": "forms"
+  },
+  {
+    "course": "html",
+    "lesson": "forms-ii"
+  },
+  {
+    "course": "html",
+    "lesson": "forms-iii"
+  },
+  {
+    "course": "html",
+    "lesson": "forms-iv"
+  },
+  {
+    "course": "html",
+    "lesson": "forms-v"
+  },
+  {
+    "course": "html",
+    "lesson": "html-basics"
+  },
+  {
+    "course": "html",
+    "lesson": "html-entities"
+  },
+  {
+    "course": "html",
+    "lesson": "html-structure"
+  },
+  {
+    "course": "html",
+    "lesson": "html-versions"
+  },
+  {
+    "course": "html",
+    "lesson": "images"
+  },
+  {
+    "course": "html",
+    "lesson": "media"
+  },
+  {
+    "course": "html",
+    "lesson": "meta-elements"
+  },
+  {
+    "course": "html",
+    "lesson": "sectioning-elements"
+  },
+  {
+    "course": "html",
+    "lesson": "semantic-sections"
+  },
+  {
+    "course": "html",
+    "lesson": "web-page-structure"
+  },
+  {
+    "course": "styling",
+    "lesson": "animations"
+  },
+  {
+    "course": "styling",
+    "lesson": "box-model"
+  },
+  {
+    "course": "styling",
+    "lesson": "centring-recipes"
+  },
+  {
+    "course": "styling",
+    "lesson": "colors-tips"
+  },
+  {
+    "course": "styling",
+    "lesson": "css-animation"
+  },
+  {
+    "course": "styling",
+    "lesson": "css-basics"
+  },
+  {
+    "course": "styling",
+    "lesson": "dimensioning-and-box-sizing"
+  },
+  {
+    "course": "styling",
+    "lesson": "features"
+  },
+  {
+    "course": "styling",
+    "lesson": "flexbox"
+  },
+  {
+    "course": "styling",
+    "lesson": "intro-css"
+  },
+  {
+    "course": "styling",
+    "lesson": "positioning"
+  },
+  {
+    "course": "styling",
+    "lesson": "positioning-tips"
+  },
+  {
+    "course": "styling",
+    "lesson": "practical-css"
+  },
+  {
+    "course": "styling",
+    "lesson": "pseudo-classes-i"
+  },
+  {
+    "course": "styling",
+    "lesson": "pseudo-classes-ii"
+  },
+  {
+    "course": "styling",
+    "lesson": "pseudo-elements"
+  },
+  {
+    "course": "styling",
+    "lesson": "recipes"
+  },
+  {
+    "course": "styling",
+    "lesson": "responsive-design-tips"
+  },
+  {
+    "course": "styling",
+    "lesson": "sass-i"
+  },
+  {
+    "course": "styling",
+    "lesson": "sass-ii"
+  },
+  {
+    "course": "styling",
+    "lesson": "sass-iii"
+  },
+  {
+    "course": "styling",
+    "lesson": "styling-i"
+  },
+  {
+    "course": "styling",
+    "lesson": "styling-ii"
+  },
+  {
+    "course": "styling",
+    "lesson": "styling-iii"
+  },
+  {
+    "course": "styling",
+    "lesson": "typography"
+  },
+  {
+    "course": "browser-apis",
+    "lesson": "dummy-workout"
+  },
+  {
+    "course": "core",
+    "lesson": "dummy-workout"
+  },
+  {
+    "course": "ecmascript-2015",
+    "lesson": "dummy-workout"
+  },
+  {
+    "course": "npm",
+    "lesson": "features-i"
+  },
+  {
+    "course": "npm",
+    "lesson": "features-ii"
+  },
+  {
+    "course": "react",
+    "lesson": "dummy-workout"
+  },
+  {
+    "course": "react",
+    "lesson": "fundamentals"
+  },
+  {
+    "course": "html",
+    "lesson": "best-practices"
+  }
+]
