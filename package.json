@@ -5,8 +5,7 @@
   "main": "index.js",
   "bin": {},
   "scripts": {
-    "start": "next client start -p 5000",
-    "heroku-postbuild": "next client build"
+    "start": "next client start -p $PORT"
   },
   "keywords": [],
   "repository": {
